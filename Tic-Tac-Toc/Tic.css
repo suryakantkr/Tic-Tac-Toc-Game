@@ -38,6 +38,10 @@ button{
    font-size: 2rem;
    border-radius: 1vmin;
 }
+button:focus {
+  outline: 2px solid #b0413e; 
+}
+
 .mgs{
     padding: 15px;
     color: #ffffc7;
