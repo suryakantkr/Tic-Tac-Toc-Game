@@ -63,6 +63,9 @@ button:focus {
     display: none;
 }
 @media (max-width: 500px) {
+    .main{
+        margin-top: 200px;
+    }
     .game {
         width: 90vw;
         height: 90vw;
