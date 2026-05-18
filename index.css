@@ -63,6 +63,10 @@ button:focus {
     display: none;
 }
 @media (max-width: 500px) {
+    .msg-container hide button{
+        margin: 40px;
+        padding: 30px;
+    }
 
     .game {
         width: 90vw;
