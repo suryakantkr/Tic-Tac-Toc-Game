@@ -63,7 +63,7 @@ button:focus {
     display: none;
 }
 @media (max-width: 500px) {
-    .msg-container hide button{
+    .msg-container button{
         margin: 40px;
         padding: 30px;
     }
