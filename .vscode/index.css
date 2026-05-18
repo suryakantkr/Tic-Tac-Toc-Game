@@ -62,3 +62,31 @@ button:focus {
 .hide {
     display: none;
 }
+@media (max-width: 500px) {
+
+    .game {
+        width: 90vw;
+        height: 90vw;
+        gap: 2vmin;
+    }
+
+    .box {
+        width: 28vw;
+        height: 28vw;
+        font-size: 10vmin;
+    }
+
+    button {
+        font-size: 1.2rem;
+        padding: 10px 15px;
+    }
+
+    .mgs {
+        font-size: 7vmin;
+    }
+
+    h1 {
+        font-size: 2rem;
+        margin-top: 20px;
+    }
+}
